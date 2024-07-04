@@ -4,7 +4,7 @@ different schemes have been implemented in Faust and ported
 to Max/MSP. Here, gestures recorded from a smartphone and
 handled through Open Sound Control have been mapped to
 the synthesis’ parameters, using a set of computed mid-level
-movement descriptors.
+movement descriptors. For more info about the project in the report.
 
 
 InstallationRequirements
